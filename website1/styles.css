@@ -1,0 +1,92 @@
+h1 {
+  text-align: center;
+}
+
+body {
+}
+
+table {
+  padding-bottom: 30px;
+}
+
+.table_body td {
+  text-align: center;
+  border: 2px solid black;
+  border-spacing: inherit;
+  padding-left: 180px;
+  padding-right: 180px;
+  border-collapse: collapse;
+  background-color: #b3b3b3;
+}
+
+.top_table {
+  width: 100%;
+}
+
+.tab {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  border-color: blue;
+  background-color: #e6faff;
+  border: 1px solid blue;
+}
+
+.top1 {
+  font-weight: bold;
+}
+
+.table_body {
+margin-left: 100px;
+}
+
+.last_row {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.last_table {
+  border: none;
+  background-color: inherit;
+  justify-content: space-around;
+  width: 65%;
+  font-weight: bold;
+  font-size: 18px;
+  padding-left: 180px;
+  padding-right: 180px;
+}
+
+.lists {
+  background-color: white;
+  text-align: left;
+  border: none;
+  margin-left: 80px;
+  justify-content: space-around;
+  width: 85%;
+  padding-bottom: 5px;
+}
+
+.images {
+  justify-content: space-around;
+  width: 90%;
+  padding-top: 30px;
+  margin-left: 180px;
+}
+
+.images img {
+  width: 180px;
+  height: 180px;
+}
+
+.bunnyone img {
+  border: 2px solid blue;
+}
+
+.purpleone img {
+  border: 2px solid black;
+}
+
+.greenone img {
+  border-radius: 100%;
+  border: 3px solid black;
+}
